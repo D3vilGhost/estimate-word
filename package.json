@@ -1,0 +1,19 @@
+{
+  "name": "estimate-word",
+  "version": "1.0.0",
+  "description": "Effortlessly pinpoint the nearest word to a given input within a set of available words using this Node.js package.",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D3vilGhost/estimate-word"
+  },
+  "keywords": [
+    "estimate-word","Levenshtein Distance"
+  ],
+  "bugs":{
+    "url":"https://github.com/D3vilGhost/estimate-word/issues"
+  },
+  "author": "Kartikey Agarwal",
+  "license": "ISC"
+}
